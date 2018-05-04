@@ -16,8 +16,8 @@ functions to add and remove said automation.
 
 ## Install
 
-The easiest way to utilize this project is to make a copy of the Google sheet using this
-shareable link [here](https://docs.google.com/spreadsheets/d/1aGEiwC4Xu0AjfJZHydHrtq9XWuXme05gdUNUNnr5Wxw/edit?usp=sharing)
+The easiest way to utilize this project is to make a copy of the Google sheet using [this](https://docs.google.com/spreadsheets/d/1aGEiwC4Xu0AjfJZHydHrtq9XWuXme05gdUNUNnr5Wxw/edit?usp=sharing) 
+shareable link
 
 Otherwise, you can download the spreadsheet and script from the lib folder and upload them to your
 own Google drive for use.
