@@ -10,6 +10,10 @@ the provided template and add more tickers to the C column.
 
 BTC tickers can be looked up at Kraken Market, [here](https://cryptowatch.de/markets/kraken/btc/usd)
 
+Also, there is an option to run the script automatically every x minutes/hours/days. If
+you'd like the Google sheet to stay updated, use the createTrigger and deleteAllTriggers
+functions to add and remove said automation.
+
 ## Install
 
 The easiest way to utilize this project is to make a copy of the Google sheet using this
@@ -25,5 +29,25 @@ own Google drive for use.
 
 ## Proof of Concept
 
-Below are some pictures to give a proof of concept.
+You can check out a demo from a slideshow I've created [here](https://github.com/kelmore5/bitcoin-price-updater/blob/master/demo/Google%20BTC%20Ticker%20Demo.pptx)
+or you can just look at spreadsheet from the [shared link](https://docs.google.com/spreadsheets/d/1aGEiwC4Xu0AjfJZHydHrtq9XWuXme05gdUNUNnr5Wxw/edit?usp=sharing) given above.
+
+Either way, below are some pictures to give a proof of concept.
+
+Here's a picture of the template spreadsheet:
+
+![Template Spreadsheet](/demo/spreadsheet_template.png "Template Spreadsheet")
+
+The spreadsheet filled out after the script is run:
+
+![Filled Spreadsheet](/demo/spreadsheet_filled.png "Filled Spreadsheet")
+
+How to setup the script and various functions:
+
+![Script Demo](/demo/google_script.png "Script Demo")
+
+Running the script:
+
+![Run the Script](/demo/google_script_run.png "Run the Script")
+
 
