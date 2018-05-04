@@ -29,7 +29,7 @@ own Google drive for use.
 
 ## Proof of Concept
 
-You can check out a demo from a slideshow I've created [here](https://github.com/kelmore5/bitcoin-price-updater/blob/master/demo/Google%20BTC%20Ticker%20Demo.pptx)
+You can check out a demo from a slideshow I've created [here](https://docs.google.com/presentation/d/10fd89NcMXuS0FX39vZr521cwJP_hWqC2oxUkFSWUXBs/edit?usp=sharing)
 or you can just look at spreadsheet from the [shared link](https://docs.google.com/spreadsheets/d/1aGEiwC4Xu0AjfJZHydHrtq9XWuXme05gdUNUNnr5Wxw/edit?usp=sharing) given above.
 
 Either way, below are some pictures to give a proof of concept.
