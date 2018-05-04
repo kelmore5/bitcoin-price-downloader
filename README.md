@@ -24,6 +24,7 @@ own Google drive for use.
 
 ## Extra Links
 
+- [Kraken Market Prices](https://cryptowatch.de/markets/kraken/btc/usd)
 - [Kraken API](https://www.kraken.com/help/api)
 - [Google Sheets Scripts](https://developers.google.com/apps-script/guides/sheets)
 
