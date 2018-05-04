@@ -14,6 +14,8 @@ Also, there is an option to run the script automatically every x minutes/hours/d
 you'd like the Google sheet to stay updated, use the createTrigger and deleteAllTriggers
 functions to add and remove said automation.
 
+This has been checked and was working on **May 3, 2018**, but I have no plans to maintain the project.
+
 ## Install
 
 The easiest way to utilize this project is to make a copy of the Google sheet using [this](https://docs.google.com/spreadsheets/d/1aGEiwC4Xu0AjfJZHydHrtq9XWuXme05gdUNUNnr5Wxw/edit?usp=sharing) 
